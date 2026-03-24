@@ -1,0 +1,1962 @@
+{
+  "221872": {
+    "lat": 26.4691,
+    "lon": 74.639,
+    "query": "AJMER, AJMER, Rajasthan, India"
+  },
+  "221813": {
+    "lat": 26.0184353,
+    "lon": 75.3164506,
+    "query": "BAGHERA, AJMER, Rajasthan, India"
+  },
+  "221780": {
+    "lat": 26.0527669,
+    "lon": 74.7728638,
+    "query": "BHINAY, 305622, Rajasthan, India"
+  },
+  "221516": {
+    "lat": 26.6815299,
+    "lon": 74.9581021,
+    "query": "BUHARU, AJMER, Rajasthan, India"
+  },
+  "214315": {
+    "lat": 26.5742693,
+    "lon": 74.5711827,
+    "query": "KADEL, 305021, Rajasthan, India"
+  },
+  "214344": {
+    "lat": 26.1802428,
+    "lon": 74.6678281,
+    "query": "NYARA, AJMER, Rajasthan, India"
+  },
+  "214172": {
+    "lat": 26.575597,
+    "lon": 74.8248771,
+    "query": "KISHANGARH, 305802, Rajasthan, India"
+  },
+  "214288": {
+    "lat": 26.2950699,
+    "lon": 74.7173813,
+    "query": "NASIRABAD AJMER, AJMER, Rajasthan, India"
+  },
+  "216438": {
+    "lat": 27.0905746,
+    "lon": 76.3140821,
+    "query": "GOLA KA BAS, 301410, Rajasthan, India"
+  },
+  "216570": {
+    "lat": 27.5087179,
+    "lon": 77.0025876,
+    "query": "301604, Rajasthan, India"
+  },
+  "216479": null,
+  "216578": {
+    "lat": 25.0071053,
+    "lon": 72.2653077,
+    "query": "BHINMAL, 321605, Rajasthan, India"
+  },
+  "216421": {
+    "lat": 27.2814846,
+    "lon": 76.2891054,
+    "query": "KISHORI, 301022, Rajasthan, India"
+  },
+  "526798": {
+    "lat": 27.2111863,
+    "lon": 76.4191603,
+    "query": "MALLANA, ALWAR, Rajasthan, India"
+  },
+  "526799": {
+    "lat": 27.3101443,
+    "lon": 76.6978955,
+    "query": "PATAN, ALWAR, Rajasthan, India"
+  },
+  "216589": {
+    "lat": 27.3623536,
+    "lon": 77.0820951,
+    "query": "TASAI, ALWAR, Rajasthan, India"
+  },
+  "216400": {
+    "lat": 27.3906924,
+    "lon": 76.3212141,
+    "query": "THANAGAJI, 301022, Rajasthan, India"
+  },
+  "225440": {
+    "lat": 27.3194886,
+    "lon": 77.0761021,
+    "query": "KATHUMAR, ALWAR, Rajasthan, India"
+  },
+  "225374": {
+    "lat": 27.353568,
+    "lon": 76.5522516,
+    "query": "BALETA, 301406, Rajasthan, India"
+  },
+  "220664": {
+    "lat": 25.8107247,
+    "lon": 72.2520577,
+    "query": "344022, Rajasthan, India"
+  },
+  "220706": {
+    "lat": 26.025,
+    "lon": 72.5852,
+    "query": "KALYANPUR, 344026, Rajasthan, India"
+  },
+  "220781": {
+    "lat": 25.4885635,
+    "lon": 71.7666315,
+    "query": "KOSHLU, 344033, Rajasthan, India"
+  },
+  "220718": null,
+  "220715": {
+    "lat": 25.6497164,
+    "lon": 72.4209004,
+    "query": "SIWANA, 344044, Rajasthan, India"
+  },
+  "526880": {
+    "lat": 25.5502959,
+    "lon": 71.8731199,
+    "query": "344033, Rajasthan, India"
+  },
+  "213581": {
+    "lat": 25.9212364,
+    "lon": 71.7525117,
+    "query": "344034, Rajasthan, India"
+  },
+  "223890": {
+    "lat": 27.6626602,
+    "lon": 74.6490587,
+    "query": "KHODAN, 327022, Rajasthan, India"
+  },
+  "223866": null,
+  "215005": null,
+  "223816": {
+    "lat": 23.550075,
+    "lon": 74.446294,
+    "query": "BANSWARA, BANSWARA, Rajasthan, India"
+  },
+  "223981": null,
+  "223743": {
+    "lat": 23.593676,
+    "lon": 74.4630899,
+    "query": "327001, Rajasthan, India"
+  },
+  "223768": {
+    "lat": 23.8660986,
+    "lon": 74.4579399,
+    "query": "DUNGARIYA, BANSWARA, Rajasthan, India"
+  },
+  "223948": null,
+  "223937": null,
+  "223717": {
+    "lat": 23.7570852,
+    "lon": 74.4124702,
+    "query": "GHATOL, BANSWARA, Rajasthan, India"
+  },
+  "223797": null,
+  "223796": {
+    "lat": 23.593676,
+    "lon": 74.4630899,
+    "query": "327001, Rajasthan, India"
+  },
+  "223815": {
+    "lat": 23.6246895,
+    "lon": 74.532634,
+    "query": "KATIYOR, 327026, Rajasthan, India"
+  },
+  "215010": null,
+  "223870": {
+    "lat": 23.550075,
+    "lon": 74.446294,
+    "query": "BANSWARA, BANSWARA, Rajasthan, India"
+  },
+  "223725": {
+    "lat": 23.6964385,
+    "lon": 74.3667072,
+    "query": "PADOLI GORDHAN, 327023, Rajasthan, India"
+  },
+  "223911": {
+    "lat": 23.5931445,
+    "lon": 74.1752202,
+    "query": "PARTAPUR -GARHI, 327024, Rajasthan, India"
+  },
+  "223836": null,
+  "223951": null,
+  "223932": null,
+  "223979": null,
+  "407256": {
+    "lat": 23.7570852,
+    "lon": 74.4124702,
+    "query": "GHATOL, 327023, Rajasthan, India"
+  },
+  "214947": null,
+  "223790": null,
+  "225375": null,
+  "225376": null,
+  "223741": {
+    "lat": 23.7809719,
+    "lon": 74.3685666,
+    "query": "HIMMAT SINGH KA GARA, BANSWARA, Rajasthan, India"
+  },
+  "225378": null,
+  "225379": null,
+  "217670": {
+    "lat": 25.2195544,
+    "lon": 77.3501192,
+    "query": "KASBATHANA, BARAN, Rajasthan, India"
+  },
+  "217634": {
+    "lat": 25.1069614,
+    "lon": 76.6369912,
+    "query": "KISHANGANJ, BARAN, Rajasthan, India"
+  },
+  "217680": null,
+  "526795": {
+    "lat": 24.7561169,
+    "lon": 76.7344344,
+    "query": "KAWAI, 325219, Rajasthan, India"
+  },
+  "526797": {
+    "lat": 25.0005276,
+    "lon": 76.7813872,
+    "query": "PARANIYA, 325216, Rajasthan, India"
+  },
+  "499819": {
+    "lat": 25.3307117,
+    "lon": 76.5120394,
+    "query": "MANGROL, BARAN, Rajasthan, India"
+  },
+  "216962": {
+    "lat": 24.8820675,
+    "lon": 76.6700458,
+    "query": "ATRU, BARAN, Rajasthan, India"
+  },
+  "216921": {
+    "lat": 25.1801471,
+    "lon": 76.3199871,
+    "query": "ANTA, BARAN, Rajasthan, India"
+  },
+  "217615": {
+    "lat": 24.6218085,
+    "lon": 76.7108044,
+    "query": "CHHIPABAROD, 325221, Rajasthan, India"
+  },
+  "216965": {
+    "lat": 24.8245022,
+    "lon": 76.6711378,
+    "query": "BARALA, BARAN, Rajasthan, India"
+  },
+  "225382": {
+    "lat": 25.1069614,
+    "lon": 76.6369912,
+    "query": "KISHANGANJ, BARAN, Rajasthan, India"
+  },
+  "217664": {
+    "lat": 25.2483728,
+    "lon": 77.1558931,
+    "query": "SHAHBAD, BARAN, Rajasthan, India"
+  },
+  "220912": {
+    "lat": 25.745304,
+    "lon": 71.3998217,
+    "query": "BARMER, BARMER, Rajasthan, India"
+  },
+  "220783": {
+    "lat": 25.4506956,
+    "lon": 71.6956401,
+    "query": "ADEL, 344033, Rajasthan, India"
+  },
+  "220986": {
+    "lat": 25.4839955,
+    "lon": 71.074919,
+    "query": "CHOHTAN, BARMER, Rajasthan, India"
+  },
+  "220915": {
+    "lat": 25.2081251,
+    "lon": 71.4383304,
+    "query": "DHORIMANA, 344704, Rajasthan, India"
+  },
+  "220928": {
+    "lat": 25.2484003,
+    "lon": 71.7115112,
+    "query": "344031, Rajasthan, India"
+  },
+  "220933": {
+    "lat": 27.6729818,
+    "lon": 75.7057142,
+    "query": "NAYA NAGAR, 344031, Rajasthan, India"
+  },
+  "220964": {
+    "lat": 25.4839955,
+    "lon": 71.074919,
+    "query": "CHOHTAN, BARMER, Rajasthan, India"
+  },
+  "220805": {
+    "lat": 25.536755,
+    "lon": 71.7068968,
+    "query": "NIMBALKOT, BARMER, Rajasthan, India"
+  },
+  "220823": {
+    "lat": 25.6611524,
+    "lon": 71.6348306,
+    "query": "344703, Rajasthan, India"
+  },
+  "220903": {
+    "lat": 25.4839955,
+    "lon": 71.074919,
+    "query": "CHOHTAN, BARMER, Rajasthan, India"
+  },
+  "213543": null,
+  "527003": {
+    "lat": 25.8147826,
+    "lon": 70.3683758,
+    "query": "JAISINDHAR STATION, 344501, Rajasthan, India"
+  },
+  "220963": {
+    "lat": 25.4839955,
+    "lon": 71.074919,
+    "query": "CHOHTAN, BARMER, Rajasthan, India"
+  },
+  "220910": null,
+  "220988": {
+    "lat": 25.4839955,
+    "lon": 71.074919,
+    "query": "CHOHTAN, BARMER, Rajasthan, India"
+  },
+  "213556": {
+    "lat": 25.8192663,
+    "lon": 70.7678103,
+    "query": "DETANI, 344502, Rajasthan, India"
+  },
+  "214100": null,
+  "221688": {
+    "lat": 25.7693605,
+    "lon": 73.9932974,
+    "query": "305926, Rajasthan, India"
+  },
+  "221683": {
+    "lat": 25.7618501,
+    "lon": 73.9970773,
+    "query": "BARAKHAN, 305926, Rajasthan, India"
+  },
+  "214120": {
+    "lat": 26.1807627,
+    "lon": 74.1610622,
+    "query": "GIRI, 306102, Rajasthan, India"
+  },
+  "221668": {
+    "lat": 25.9424051,
+    "lon": 74.2078494,
+    "query": "JAWAJA, BEAWAR, Rajasthan, India"
+  },
+  "221696": {
+    "lat": 26.1070559,
+    "lon": 74.3128424,
+    "query": "BEAWAR, 305901, Rajasthan, India"
+  },
+  "221751": {
+    "lat": 25.9304646,
+    "lon": 74.6513212,
+    "query": "VIJAINAGAR, 305624, Rajasthan, India"
+  },
+  "217200": {
+    "lat": 27.1963198,
+    "lon": 77.3466253,
+    "query": "CHITOKARI, BHARATPUR, Rajasthan, India"
+  },
+  "217286": {
+    "lat": 26.9618578,
+    "lon": 77.0392656,
+    "query": "NITHAR, 321409, Rajasthan, India"
+  },
+  "217328": {
+    "lat": 27.0529726,
+    "lon": 77.1229934,
+    "query": "SIRAS, 321408, Rajasthan, India"
+  },
+  "217336": {
+    "lat": 27.0691002,
+    "lon": 77.0470762,
+    "query": "SALEMPUR KHURD, 321407, Rajasthan, India"
+  },
+  "217402": {
+    "lat": 26.9059419,
+    "lon": 77.2924498,
+    "query": "BAYANA, 321401, Rajasthan, India"
+  },
+  "531991": {
+    "lat": 27.2154447,
+    "lon": 77.4986962,
+    "query": "BHARATPUR, 321001, Rajasthan, India"
+  },
+  "217429": {
+    "lat": 26.9940686,
+    "lon": 77.5930125,
+    "query": "ROOPBAS, 321404, Rajasthan, India"
+  },
+  "406905": null,
+  "214826": {
+    "lat": 25.353179,
+    "lon": 74.6998214,
+    "query": "SUWANA, BHILWARA, Rajasthan, India"
+  },
+  "222648": {
+    "lat": 25.1942551,
+    "lon": 75.0811226,
+    "query": "MANDALGARH, BHILWARA, Rajasthan, India"
+  },
+  "222534": {
+    "lat": 25.4007039,
+    "lon": 74.899969,
+    "query": "KOTRI, BHILWARA, Rajasthan, India"
+  },
+  "214618": {
+    "lat": 25.3057122,
+    "lon": 74.0814102,
+    "query": "MOKHUNDA, 311805, Rajasthan, India"
+  },
+  "222511": {
+    "lat": 25.348,
+    "lon": 74.636,
+    "query": "BHILWARA, BHILWARA, Rajasthan, India"
+  },
+  "222510": {
+    "lat": 25.348,
+    "lon": 74.636,
+    "query": "BHILWARA, 311001, Rajasthan, India"
+  },
+  "214501": {
+    "lat": 25.6301339,
+    "lon": 74.9264383,
+    "query": "SHAHPURA, BHILWARA, Rajasthan, India"
+  },
+  "214594": {
+    "lat": 25.4014292,
+    "lon": 74.1610959,
+    "query": "RAIPUR, BHILWARA, Rajasthan, India"
+  },
+  "214505": {
+    "lat": 25.617091,
+    "lon": 74.6907073,
+    "query": "311401, Rajasthan, India"
+  },
+  "214416": {
+    "lat": 25.7063275,
+    "lon": 74.3354242,
+    "query": "311301, Rajasthan, India"
+  },
+  "214468": {
+    "lat": 25.6301339,
+    "lon": 74.9264383,
+    "query": "SHAHPURA, BHILWARA, Rajasthan, India"
+  },
+  "214482": {
+    "lat": 25.6301339,
+    "lon": 74.9264383,
+    "query": "SHAHPURA, BHILWARA, Rajasthan, India"
+  },
+  "222366": {
+    "lat": 25.2257325,
+    "lon": 74.4677996,
+    "query": "SOPURA, BHILWARA, Rajasthan, India"
+  },
+  "222683": {
+    "lat": 25.1942551,
+    "lon": 75.0811226,
+    "query": "MANDALGARH, 311604, Rajasthan, India"
+  },
+  "225384": {
+    "lat": 25.353179,
+    "lon": 74.6998214,
+    "query": "SUWANA, BHILWARA, Rajasthan, India"
+  },
+  "532023": {
+    "lat": 28.0159286,
+    "lon": 73.3171367,
+    "query": "BIKANER, BIKANER, Rajasthan, India"
+  },
+  "211241": {
+    "lat": 28.0159286,
+    "lon": 73.3171367,
+    "query": "BIKANER, BIKANER, Rajasthan, India"
+  },
+  "211236": null,
+  "211420": {
+    "lat": 27.352133,
+    "lon": 73.1840959,
+    "query": "BHADLA, 334803, Rajasthan, India"
+  },
+  "211502": {
+    "lat": 28.4471157,
+    "lon": 72.5083028,
+    "query": "DANTOR, 334023, Rajasthan, India"
+  },
+  "211371": {
+    "lat": 27.7899383,
+    "lon": 72.8174832,
+    "query": "DIYATRA, BIKANER, Rajasthan, India"
+  },
+  "211365": {
+    "lat": 27.8362183,
+    "lon": 72.9554371,
+    "query": "KOLAYAT, BIKANER, Rajasthan, India"
+  },
+  "211316": {
+    "lat": 28.4931301,
+    "lon": 73.7431429,
+    "query": "LUNKARANSAR, BIKANER, Rajasthan, India"
+  },
+  "211518": {
+    "lat": 28.028295,
+    "lon": 73.2969516,
+    "query": "PUGAL, BIKANER, Rajasthan, India"
+  },
+  "532025": {
+    "lat": 28.0159286,
+    "lon": 73.3171367,
+    "query": "BIKANER, 334403, Rajasthan, India"
+  },
+  "523392": {
+    "lat": 28.0159286,
+    "lon": 73.3171367,
+    "query": "BIKANER, BIKANER, Rajasthan, India"
+  },
+  "531993": {
+    "lat": 28.0159286,
+    "lon": 73.3171367,
+    "query": "BIKANER, 334001, Rajasthan, India"
+  },
+  "211445": {
+    "lat": 27.5552713,
+    "lon": 73.4755961,
+    "query": "NOKHA, BIKANER, Rajasthan, India"
+  },
+  "478871": {
+    "lat": 28.0928483,
+    "lon": 74.0113994,
+    "query": "SRI DUNGARGARH, 331803, Rajasthan, India"
+  },
+  "225385": {
+    "lat": 27.950403,
+    "lon": 73.9668868,
+    "query": "UPANI, BIKANER, Rajasthan, India"
+  },
+  "222228": {
+    "lat": 25.5777823,
+    "lon": 75.5024875,
+    "query": "HINDOLI, BUNDI, Rajasthan, India"
+  },
+  "221626": {
+    "lat": 25.7283498,
+    "lon": 76.191368,
+    "query": "INDRAGARH, 323613, Rajasthan, India"
+  },
+  "222346": {
+    "lat": 25.4416137,
+    "lon": 75.6375815,
+    "query": "BUNDI, BUNDI, Rajasthan, India"
+  },
+  "225386": {
+    "lat": 25.4457354,
+    "lon": 75.4387593,
+    "query": "K.PATAN, BUNDI, Rajasthan, India"
+  },
+  "224234": {
+    "lat": 24.879453,
+    "lon": 74.322775,
+    "query": "KAPASAN, CHITTAURGARH, Rajasthan, India"
+  },
+  "224062": null,
+  "224251": {
+    "lat": 24.751053,
+    "lon": 74.200925,
+    "query": "312205, Rajasthan, India"
+  },
+  "224356": {
+    "lat": 24.504269,
+    "lon": 74.582958,
+    "query": "312614, Rajasthan, India"
+  },
+  "224249": {
+    "lat": 24.8669571,
+    "lon": 74.2369044,
+    "query": "312204, Rajasthan, India"
+  },
+  "224350": {
+    "lat": 24.619019,
+    "lon": 74.681813,
+    "query": "NIMBAHERA, CHITTAURGARH, Rajasthan, India"
+  },
+  "224208": {
+    "lat": 24.879453,
+    "lon": 74.322775,
+    "query": "KAPASAN, CHITTAURGARH, Rajasthan, India"
+  },
+  "224344": {
+    "lat": 24.6724169,
+    "lon": 74.6467245,
+    "query": "PHACHAR AHEERAN, 312601, Rajasthan, India"
+  },
+  "224370": null,
+  "224363": {
+    "lat": 24.7101748,
+    "lon": 74.8970942,
+    "query": "KANERA, 312606, Rajasthan, India"
+  },
+  "224296": {
+    "lat": 24.672359,
+    "lon": 74.395095,
+    "query": "MANDPHIYA, CHITTAURGARH, Rajasthan, India"
+  },
+  "224322": null,
+  "224192": {
+    "lat": 24.937775,
+    "lon": 74.4908452,
+    "query": "NARELA, CHITTAURGARH, Rajasthan, India"
+  },
+  "224080": {
+    "lat": 24.988332,
+    "lon": 75.015117,
+    "query": "BEGUN, CHITTAURGARH, Rajasthan, India"
+  },
+  "224040": {
+    "lat": 25.0620522,
+    "lon": 74.3599007,
+    "query": "RASHMI, 312203, Rajasthan, India"
+  },
+  "224176": {
+    "lat": 24.758601,
+    "lon": 74.5782851,
+    "query": "SAWA (CT), 312613, Rajasthan, India"
+  },
+  "224403": {
+    "lat": 24.4155188,
+    "lon": 74.4751013,
+    "query": "BARI SADRI, 312403, Rajasthan, India"
+  },
+  "224311": {
+    "lat": 24.7345343,
+    "lon": 74.4479513,
+    "query": "BANSEN, 312024, Rajasthan, India"
+  },
+  "224235": {
+    "lat": 24.8614365,
+    "lon": 74.3110046,
+    "query": "KAPASAN, 312202, Rajasthan, India"
+  },
+  "224371": {
+    "lat": 24.619019,
+    "lon": 74.681813,
+    "query": "NIMBAHERA, CHITTAURGARH, Rajasthan, India"
+  },
+  "224303": {
+    "lat": 24.672336,
+    "lon": 74.501536,
+    "query": "BHADESAR, CHITTAURGARH, Rajasthan, India"
+  },
+  "225388": {
+    "lat": 24.988332,
+    "lon": 75.015117,
+    "query": "BEGUN, CHITTAURGARH, Rajasthan, India"
+  },
+  "225389": {
+    "lat": 24.6790579,
+    "lon": 74.5092622,
+    "query": "BHADESAR, 312602, Rajasthan, India"
+  },
+  "225390": {
+    "lat": 24.775552,
+    "lon": 74.8722124,
+    "query": "DEEPPURA, 323307, Rajasthan, India"
+  },
+  "225391": null,
+  "225394": {
+    "lat": 24.879453,
+    "lon": 74.322775,
+    "query": "KAPASAN, CHITTAURGARH, Rajasthan, India"
+  },
+  "225396": {
+    "lat": 25.0598773,
+    "lon": 74.3590524,
+    "query": "RASHMI, CHITTAURGARH, Rajasthan, India"
+  },
+  "224272": {
+    "lat": 24.5598801,
+    "lon": 74.3484967,
+    "query": "DUNGLA, 312402, Rajasthan, India"
+  },
+  "215551": {
+    "lat": 28.0659754,
+    "lon": 74.4087078,
+    "query": "331802, Rajasthan, India"
+  },
+  "215272": {
+    "lat": 28.6415386,
+    "lon": 75.3852992,
+    "query": "RAJGARH (CHURU), 331023, Rajasthan, India"
+  },
+  "532045": {
+    "lat": 28.4607214,
+    "lon": 75.1660538,
+    "query": "DUDHWAKHARA, 331029, Rajasthan, India"
+  },
+  "521017": null,
+  "215427": {
+    "lat": 28.298335,
+    "lon": 74.9679308,
+    "query": "CHURU, 331001, Rajasthan, India"
+  },
+  "215566": {
+    "lat": 28.0749601,
+    "lon": 74.6243533,
+    "query": "RATANGARH, CHURU, Rajasthan, India"
+  },
+  "215582": {
+    "lat": 28.0749601,
+    "lon": 74.6243533,
+    "query": "RATANGARH, CHURU, Rajasthan, India"
+  },
+  "215536": {
+    "lat": 27.8353916,
+    "lon": 74.317423,
+    "query": "BIDASAR, 331501, Rajasthan, India"
+  },
+  "218124": {
+    "lat": 26.9001256,
+    "lon": 76.3306011,
+    "query": "DAUSA, 303303, Rajasthan, India"
+  },
+  "218144": {
+    "lat": 26.4505468,
+    "lon": 76.3817704,
+    "query": "BAGRI, 303503, Rajasthan, India"
+  },
+  "218018": {
+    "lat": 27.0457102,
+    "lon": 76.5752695,
+    "query": "BANDIKUI, DAUSA, Rajasthan, India"
+  },
+  "212928": null,
+  "218182": {
+    "lat": 26.6243168,
+    "lon": 76.26242,
+    "query": "RAMGARH PACHWARA, DAUSA, Rajasthan, India"
+  },
+  "218161": {
+    "lat": 26.6902763,
+    "lon": 76.2982034,
+    "query": "KALLAWAS, DAUSA, Rajasthan, India"
+  },
+  "212943": {
+    "lat": 27.022328,
+    "lon": 76.8879488,
+    "query": "PADLI, 303509, Rajasthan, India"
+  },
+  "218069": {
+    "lat": 27.0360782,
+    "lon": 76.2967443,
+    "query": "SAINTHAL, 303507, Rajasthan, India"
+  },
+  "212961": {
+    "lat": 26.8668342,
+    "lon": 76.6796098,
+    "query": "SIKRAI, DAUSA, Rajasthan, India"
+  },
+  "212921": {
+    "lat": 27.0471366,
+    "lon": 76.928784,
+    "query": "MAHWA, DAUSA, Rajasthan, India"
+  },
+  "212981": {
+    "lat": 26.8668342,
+    "lon": 76.6796098,
+    "query": "SIKRAI, DAUSA, Rajasthan, India"
+  },
+  "218046": null,
+  "218033": {
+    "lat": 27.0457102,
+    "lon": 76.5752695,
+    "query": "BANDIKUI, 303313, Rajasthan, India"
+  },
+  "218126": {
+    "lat": 26.9001256,
+    "lon": 76.3306011,
+    "query": "DAUSA, DAUSA, Rajasthan, India"
+  },
+  "212866": {
+    "lat": 26.5943987,
+    "lon": 76.3201332,
+    "query": "DIDWANA, DAUSA, Rajasthan, India"
+  },
+  "218083": null,
+  "217063": {
+    "lat": 27.4216563,
+    "lon": 77.100411,
+    "query": "NAGAR, DEEG, Rajasthan, India"
+  },
+  "217082": {
+    "lat": 27.4600725,
+    "lon": 77.2128367,
+    "query": "BEDHAM, 321203, Rajasthan, India"
+  },
+  "211677": {
+    "lat": 27.6742931,
+    "lon": 77.303667,
+    "query": "UDAKA, 321022, Rajasthan, India"
+  },
+  "217096": {
+    "lat": 27.4721813,
+    "lon": 77.3742199,
+    "query": "BAHAJ, 321203, Rajasthan, India"
+  },
+  "217505": {
+    "lat": 26.5526009,
+    "lon": 77.4197101,
+    "query": "BARAULI, 328031, Rajasthan, India"
+  },
+  "217471": {
+    "lat": 26.7478907,
+    "lon": 77.5413537,
+    "query": "BASERI, DHAULPUR, Rajasthan, India"
+  },
+  "217525": {
+    "lat": 26.6469447,
+    "lon": 77.6156532,
+    "query": "BARI, DHAULPUR, Rajasthan, India"
+  },
+  "217494": {
+    "lat": 26.7973935,
+    "lon": 77.6650786,
+    "query": "MAU GULAWALI, DHAULPUR, Rajasthan, India"
+  },
+  "217506": {
+    "lat": 26.5155043,
+    "lon": 77.3724377,
+    "query": "SARMATHURA, 328026, Rajasthan, India"
+  },
+  "219830": {
+    "lat": 27.4061158,
+    "lon": 74.5577959,
+    "query": "DIDWANA, DIDWANA-KUCHAMAN, Rajasthan, India"
+  },
+  "219759": {
+    "lat": 27.3911449,
+    "lon": 74.7725844,
+    "query": "BERI KHURD, 341551, Rajasthan, India"
+  },
+  "219555": {
+    "lat": 26.8337405,
+    "lon": 74.5559478,
+    "query": "CHITAI, 341512, Rajasthan, India"
+  },
+  "220064": {
+    "lat": 27.0586767,
+    "lon": 74.5565915,
+    "query": "HURIYA, 341502, Rajasthan, India"
+  },
+  "213483": null,
+  "219948": {
+    "lat": 27.0574323,
+    "lon": 74.8827546,
+    "query": "341533, Rajasthan, India"
+  },
+  "213501": {
+    "lat": 27.6418,
+    "lon": 74.3949,
+    "query": "LADNU, 341306, Rajasthan, India"
+  },
+  "219980": null,
+  "213490": {
+    "lat": 27.6116414,
+    "lon": 74.585452,
+    "query": "RODOO, 341304, Rajasthan, India"
+  },
+  "213503": {
+    "lat": 27.6418,
+    "lon": 74.3949,
+    "query": "LADNU, 341306, Rajasthan, India"
+  },
+  "477312": {
+    "lat": 27.4093791,
+    "lon": 74.8085772,
+    "query": "341551, Rajasthan, India"
+  },
+  "219587": null,
+  "519585": null,
+  "222448": null,
+  "222446": {
+    "lat": 23.9552726,
+    "lon": 74.0772639,
+    "query": "ASPUR, DUNGARPUR, Rajasthan, India"
+  },
+  "223664": null,
+  "223090": null,
+  "223086": null,
+  "222367": {
+    "lat": 23.8538893,
+    "lon": 73.7087177,
+    "query": "DUNGARPUR, DUNGARPUR, Rajasthan, India"
+  },
+  "222465": null,
+  "223666": {
+    "lat": 23.6047362,
+    "lon": 74.6252408,
+    "query": "KHAJURI, 314801, Rajasthan, India"
+  },
+  "222427": {
+    "lat": 23.7859732,
+    "lon": 73.9729642,
+    "query": "NAVA TAPRA, DUNGARPUR, Rajasthan, India"
+  },
+  "223665": null,
+  "222988": null,
+  "223071": null,
+  "225306": null,
+  "222455": {
+    "lat": 23.9552726,
+    "lon": 74.0772639,
+    "query": "ASPUR, DUNGARPUR, Rajasthan, India"
+  },
+  "223656": {
+    "lat": 23.8255121,
+    "lon": 73.6567211,
+    "query": "THANA, DUNGARPUR, Rajasthan, India"
+  },
+  "223055": null,
+  "222987": {
+    "lat": 23.8450611,
+    "lon": 74.1770696,
+    "query": "SABLA, DUNGARPUR, Rajasthan, India"
+  },
+  "223690": {
+    "lat": 23.5671103,
+    "lon": 73.7433908,
+    "query": "SIMALWARA, DUNGARPUR, Rajasthan, India"
+  },
+  "222396": {
+    "lat": 23.8544617,
+    "lon": 73.9016604,
+    "query": "PUNALI, DUNGARPUR, Rajasthan, India"
+  },
+  "225398": null,
+  "479895": null,
+  "211889": {
+    "lat": 29.9270556,
+    "lon": 73.8761519,
+    "query": "SRI GANGANAGAR, GANGANAGAR, Rajasthan, India"
+  },
+  "212169": {
+    "lat": 29.4669555,
+    "lon": 73.630187,
+    "query": "5 NP DABLA, GANGANAGAR, Rajasthan, India"
+  },
+  "211996": {
+    "lat": 29.8498495,
+    "lon": 74.030701,
+    "query": "LALGARH-JATTAN, GANGANAGAR, Rajasthan, India"
+  },
+  "212255": null,
+  "214714": {
+    "lat": 29.2631,
+    "lon": 74.4016,
+    "query": "RAWATSAR, HANUMANGARH, Rajasthan, India"
+  },
+  "211101": {
+    "lat": 29.6403391,
+    "lon": 74.0190768,
+    "query": "9 JRK, 335802, Rajasthan, India"
+  },
+  "214708": {
+    "lat": 28.9338592,
+    "lon": 74.2124345,
+    "query": "PALLU, 335522, Rajasthan, India"
+  },
+  "211152": {
+    "lat": 29.3384697,
+    "lon": 74.7605681,
+    "query": "20 KNN, 335523, Rajasthan, India"
+  },
+  "214753": {
+    "lat": 29.4916223,
+    "lon": 74.0790249,
+    "query": "PILIBANGA, HANUMANGARH, Rajasthan, India"
+  },
+  "218755": {
+    "lat": 27.1240007,
+    "lon": 75.7553887,
+    "query": "ANANTPURA, 303302, Rajasthan, India"
+  },
+  "218927": {
+    "lat": 26.9207967,
+    "lon": 75.7960023,
+    "query": "JAIPUR HERITAGE, JAIPUR, Rajasthan, India"
+  },
+  "213090": {
+    "lat": 26.9585861,
+    "lon": 75.7527694,
+    "query": "JHOTWARA CITY, JAIPUR, Rajasthan, India"
+  },
+  "218723": {
+    "lat": 25.4613516,
+    "lon": 76.347878,
+    "query": "MUNDLI, 303908, Rajasthan, India"
+  },
+  "218643": {
+    "lat": 27.152911,
+    "lon": 76.1186027,
+    "query": "RAISAR, 303109, Rajasthan, India"
+  },
+  "218472": {
+    "lat": 26.701836,
+    "lon": 75.1885843,
+    "query": "UDAIPURIYA, 303807, Rajasthan, India"
+  },
+  "526804": {
+    "lat": 27.1425336,
+    "lon": 75.6905115,
+    "query": "BIHARIPURA, JAIPUR, Rajasthan, India"
+  },
+  "218395": {
+    "lat": 27.3863056,
+    "lon": 76.0096192,
+    "query": "DEVAN, 303103, Rajasthan, India"
+  },
+  "218553": {
+    "lat": 26.8750866,
+    "lon": 75.2455501,
+    "query": "PHULERA, 303338, Rajasthan, India"
+  },
+  "218914": {
+    "lat": 26.9207967,
+    "lon": 75.7960023,
+    "query": "JAIPUR HERITAGE, 302002, Rajasthan, India"
+  },
+  "218896": {
+    "lat": 26.9207967,
+    "lon": 75.7960023,
+    "query": "JAIPUR HERITAGE, 302031, Rajasthan, India"
+  },
+  "218625": {
+    "lat": 27.1332143,
+    "lon": 75.9566333,
+    "query": "ACHROL, 303002, Rajasthan, India"
+  },
+  "218616": {
+    "lat": 27.1260475,
+    "lon": 75.8528237,
+    "query": "303805, Rajasthan, India"
+  },
+  "218209": {
+    "lat": 26.7117222,
+    "lon": 75.8014584,
+    "query": "WATIKA, JAIPUR, Rajasthan, India"
+  },
+  "218514": {
+    "lat": 26.973031,
+    "lon": 75.3869944,
+    "query": "JOBNER, JAIPUR, Rajasthan, India"
+  },
+  "218561": {
+    "lat": 27.1597154,
+    "lon": 75.3593637,
+    "query": "KISHANGARH RENWAL, JAIPUR, Rajasthan, India"
+  },
+  "218456": {
+    "lat": 27.202895,
+    "lon": 75.813114,
+    "query": "SAMOD, 303806, Rajasthan, India"
+  },
+  "225399": {
+    "lat": 26.6059831,
+    "lon": 75.9430338,
+    "query": "CHAKSU, 303901, Rajasthan, India"
+  },
+  "220530": {
+    "lat": 26.9116615,
+    "lon": 70.9124888,
+    "query": "JAISALMER, JAISALMER, Rajasthan, India"
+  },
+  "225354": {
+    "lat": 26.9116615,
+    "lon": 70.9124888,
+    "query": "JAISALMER, 345001, Rajasthan, India"
+  },
+  "220528": {
+    "lat": 26.9198813,
+    "lon": 71.9197573,
+    "query": "POKARAN, 345021, Rajasthan, India"
+  },
+  "220541": {
+    "lat": 26.0677316,
+    "lon": 74.5738435,
+    "query": "Fateh Garh, 345027, Rajasthan, India"
+  },
+  "213594": {
+    "lat": 28.2840129,
+    "lon": 75.6982469,
+    "query": "SAYALA, 343022, Rajasthan, India"
+  },
+  "225460": {
+    "lat": 26.5248424,
+    "lon": 77.2649145,
+    "query": "CHANDPURA, 343049, Rajasthan, India"
+  },
+  "221053": {
+    "lat": 25.3565428,
+    "lon": 72.7529423,
+    "query": "BHAINSWARA, 307029, Rajasthan, India"
+  },
+  "213729": {
+    "lat": 25.211775,
+    "lon": 72.4506926,
+    "query": "RANIWARA, JALOR, Rajasthan, India"
+  },
+  "213657": {
+    "lat": 25.2140512,
+    "lon": 72.0218813,
+    "query": "BAGODA, 343032, Rajasthan, India"
+  },
+  "213719": null,
+  "213716": {
+    "lat": 24.752871,
+    "lon": 71.767863,
+    "query": "SANCHORE, JALOR, Rajasthan, India"
+  },
+  "213681": {
+    "lat": 24.7633164,
+    "lon": 71.9933652,
+    "query": "SANKAR, 343040, Rajasthan, India"
+  },
+  "213820": null,
+  "213812": {
+    "lat": 24.8605062,
+    "lon": 71.4746046,
+    "query": "TANPI, 343041, Rajasthan, India"
+  },
+  "221078": {
+    "lat": 25.372156,
+    "lon": 72.783897,
+    "query": "AHORE, JALOR, Rajasthan, India"
+  },
+  "213703": {
+    "lat": 24.752871,
+    "lon": 71.767863,
+    "query": "SANCHORE, JALOR, Rajasthan, India"
+  },
+  "213673": {
+    "lat": 25.0071053,
+    "lon": 72.2653077,
+    "query": "BHINMAL, 343029, Rajasthan, India"
+  },
+  "213788": {
+    "lat": 24.906313,
+    "lon": 71.659012,
+    "query": "CHITALWANA, JALOR, Rajasthan, India"
+  },
+  "213741": {
+    "lat": 25.211775,
+    "lon": 72.4506926,
+    "query": "RANIWARA, JALOR, Rajasthan, India"
+  },
+  "224519": {
+    "lat": 24.5334409,
+    "lon": 76.1966465,
+    "query": "JHALARAPATAN, JHALAWAR, Rajasthan, India"
+  },
+  "224507": {
+    "lat": 25.0069081,
+    "lon": 73.8991898,
+    "query": "BHILWADI, 326501, Rajasthan, India"
+  },
+  "224531": {
+    "lat": 24.2355768,
+    "lon": 76.8066683,
+    "query": "MANOHARTHANA, JHALAWAR, Rajasthan, India"
+  },
+  "224642": {
+    "lat": 24.2985464,
+    "lon": 76.0858798,
+    "query": "MATHANIYA, 326036, Rajasthan, India"
+  },
+  "224675": {
+    "lat": 24.1614951,
+    "lon": 76.0337764,
+    "query": "PIRAWA, JHALAWAR, Rajasthan, India"
+  },
+  "224671": {
+    "lat": 24.371921,
+    "lon": 75.9581189,
+    "query": "SUNEL, 326513, Rajasthan, India"
+  },
+  "224517": {
+    "lat": 24.5334409,
+    "lon": 76.1966465,
+    "query": "JHALARAPATAN, JHALAWAR, Rajasthan, India"
+  },
+  "224703": {
+    "lat": 23.9321229,
+    "lon": 75.8342004,
+    "query": "DAG, 326514, Rajasthan, India"
+  },
+  "224516": {
+    "lat": 24.5931704,
+    "lon": 76.1664528,
+    "query": "JHALAWAR, 326001, Rajasthan, India"
+  },
+  "224510": {
+    "lat": 24.4162759,
+    "lon": 75.830717,
+    "query": "326502, Rajasthan, India"
+  },
+  "225403": {
+    "lat": 24.4150218,
+    "lon": 76.5663056,
+    "query": "AKLERA, 326033, Rajasthan, India"
+  },
+  "225402": {
+    "lat": 23.9321229,
+    "lon": 75.8342004,
+    "query": "DAG, JHALAWAR, Rajasthan, India"
+  },
+  "216071": {
+    "lat": 27.7493724,
+    "lon": 75.3004238,
+    "query": "KHIROD, 333042, Rajasthan, India"
+  },
+  "216016": {
+    "lat": 27.983203,
+    "lon": 75.926472,
+    "query": "MEHARA JATUWAS, 333036, Rajasthan, India"
+  },
+  "215913": {
+    "lat": 28.1887737,
+    "lon": 75.868086,
+    "query": "333502, Rajasthan, India"
+  },
+  "216082": {
+    "lat": 27.8024687,
+    "lon": 75.4003501,
+    "query": "PARASRAMPURA, 333308, Rajasthan, India"
+  },
+  "216155": {
+    "lat": 27.725313,
+    "lon": 75.485482,
+    "query": "UDAIPURWATI, JHUNJHUNUN, Rajasthan, India"
+  },
+  "215992": {
+    "lat": 28.1264746,
+    "lon": 75.3949504,
+    "query": "KHETRI, JHUNJHUNUN, Rajasthan, India"
+  },
+  "465193": {
+    "lat": 28.3541431,
+    "lon": 75.2952724,
+    "query": "MALSISAR, 331028, Rajasthan, India"
+  },
+  "215848": {
+    "lat": 25.6247729,
+    "lon": 75.1696157,
+    "query": "KAJARA, 333030, Rajasthan, India"
+  },
+  "211587": {
+    "lat": 28.0558375,
+    "lon": 75.1483915,
+    "query": "MANDAWA, 333704, Rajasthan, India"
+  },
+  "215968": {
+    "lat": 28.027736,
+    "lon": 75.7145723,
+    "query": "JASRAPUR, 333514, Rajasthan, India"
+  },
+  "215958": {
+    "lat": 28.0652524,
+    "lon": 75.8073675,
+    "query": "333504, Rajasthan, India"
+  },
+  "215802": null,
+  "215919": {
+    "lat": 27.3076276,
+    "lon": 75.3900182,
+    "query": "KAJLAN, 333034, Rajasthan, India"
+  },
+  "215932": {
+    "lat": 28.1887737,
+    "lon": 75.868086,
+    "query": "333502, Rajasthan, India"
+  },
+  "215937": {
+    "lat": 28.1276829,
+    "lon": 75.7858332,
+    "query": "333516, Rajasthan, India"
+  },
+  "501263": {
+    "lat": 27.862363,
+    "lon": 75.262426,
+    "query": "NAWALGARH, JHUNJHUNUN, Rajasthan, India"
+  },
+  "216002": {
+    "lat": 28.1264746,
+    "lon": 75.3949504,
+    "query": "KHETRI, JHUNJHUNUN, Rajasthan, India"
+  },
+  "216008": {
+    "lat": 28.1264746,
+    "lon": 75.3949504,
+    "query": "KHETRI, JHUNJHUNUN, Rajasthan, India"
+  },
+  "511797": {
+    "lat": 26.5304966,
+    "lon": 72.9809727,
+    "query": "342305, Rajasthan, India"
+  },
+  "219100": {
+    "lat": 26.2318384,
+    "lon": 73.3140849,
+    "query": "BISALPUR, JODHPUR, Rajasthan, India"
+  },
+  "219630": {
+    "lat": 26.0551,
+    "lon": 73.1293385,
+    "query": "KHARA BERA PUROHITAN, JODHPUR, Rajasthan, India"
+  },
+  "219050": {
+    "lat": 26.4553976,
+    "lon": 73.4447837,
+    "query": "SALWA KHURD, 342606, Rajasthan, India"
+  },
+  "225350": {
+    "lat": 26.3935996,
+    "lon": 72.4934578,
+    "query": "BALESAR, JODHPUR, Rajasthan, India"
+  },
+  "225404": {
+    "lat": 26.6540094,
+    "lon": 73.4956708,
+    "query": "BHOPALGARH, 342603, Rajasthan, India"
+  },
+  "220302": {
+    "lat": 26.714099,
+    "lon": 72.8357889,
+    "query": "342303, Rajasthan, India"
+  },
+  "220230": {
+    "lat": 26.3278926,
+    "lon": 72.295726,
+    "query": "SHERGARH, JODHPUR, Rajasthan, India"
+  },
+  "526807": {
+    "lat": 26.731238,
+    "lon": 76.8627977,
+    "query": "RANOLI, KARAULI, Rajasthan, India"
+  },
+  "212494": {
+    "lat": 26.8354925,
+    "lon": 76.9750008,
+    "query": "322254, Rajasthan, India"
+  },
+  "225351": {
+    "lat": 26.3488716,
+    "lon": 77.2845718,
+    "query": "322251, Rajasthan, India"
+  },
+  "225406": {
+    "lat": 26.9006973,
+    "lon": 76.8128443,
+    "query": "NANDIPUR, 321611, Rajasthan, India"
+  },
+  "215039": null,
+  "215058": {
+    "lat": 27.865249,
+    "lon": 76.6150035,
+    "query": "HARSAULI, 301403, Rajasthan, India"
+  },
+  "216259": {
+    "lat": 26.8436287,
+    "lon": 70.5432725,
+    "query": "KARNIKOT, 301427, Rajasthan, India"
+  },
+  "215036": {
+    "lat": 28.0726619,
+    "lon": 76.727314,
+    "query": "MATALWAS, 301702, Rajasthan, India"
+  },
+  "216318": {
+    "lat": 27.8174913,
+    "lon": 76.727179,
+    "query": "KISHANGARHBAS, KHAIRTHAL-TIJARA, Rajasthan, India"
+  },
+  "215070": {
+    "lat": 28.1106824,
+    "lon": 76.8313589,
+    "query": "Tapookra, 301707, Rajasthan, India"
+  },
+  "215119": null,
+  "215027": {
+    "lat": 27.7978292,
+    "lon": 76.6417499,
+    "query": "KHAIRTHAL, 301404, Rajasthan, India"
+  },
+  "216715": {
+    "lat": 24.8663406,
+    "lon": 76.1252748,
+    "query": "KANWAS, KOTA, Rajasthan, India"
+  },
+  "224418": {
+    "lat": 25.8225306,
+    "lon": 76.5297747,
+    "query": "KETHODA, KOTA, Rajasthan, India"
+  },
+  "224464": {
+    "lat": 25.3573279,
+    "lon": 76.2173809,
+    "query": "325204, Rajasthan, India"
+  },
+  "224424": null,
+  "224430": {
+    "lat": 25.8707016,
+    "lon": 76.0700641,
+    "query": "KHATOLI, 325009, Rajasthan, India"
+  },
+  "224446": {
+    "lat": 25.5388521,
+    "lon": 76.378973,
+    "query": "ITAWA, KOTA, Rajasthan, India"
+  },
+  "216739": {
+    "lat": 24.9251835,
+    "lon": 76.2861027,
+    "query": "SANGOD, KOTA, Rajasthan, India"
+  },
+  "216413": null,
+  "213043": null,
+  "213047": {
+    "lat": 27.791586,
+    "lon": 76.096494,
+    "query": "BANETHI, KOTPUTLI-BEHROR, Rajasthan, India"
+  },
+  "498984": {
+    "lat": 27.5238989,
+    "lon": 76.3123874,
+    "query": "301024, Rajasthan, India"
+  },
+  "216159": {
+    "lat": 27.8968846,
+    "lon": 76.3684022,
+    "query": "Bardod, KOTPUTLI-BEHROR, Rajasthan, India"
+  },
+  "508002": {
+    "lat": 26.7330936,
+    "lon": 74.4766534,
+    "query": "HARSOR, 341515, Rajasthan, India"
+  },
+  "219617": {
+    "lat": 27.2220563,
+    "lon": 74.1850347,
+    "query": "JAYAL, NAGAUR, Rajasthan, India"
+  },
+  "225409": {
+    "lat": 27.0628056,
+    "lon": 73.8216985,
+    "query": "MUNDWA, NAGAUR, Rajasthan, India"
+  },
+  "225410": {
+    "lat": 27.2000117,
+    "lon": 73.7237044,
+    "query": "NAGAUR, NAGAUR, Rajasthan, India"
+  },
+  "219486": {
+    "lat": 26.5399894,
+    "lon": 74.2391038,
+    "query": "RIYAN BADI, NAGAUR, Rajasthan, India"
+  },
+  "221268": {
+    "lat": 25.4050073,
+    "lon": 73.2150116,
+    "query": "KENPURA, 306422, Rajasthan, India"
+  },
+  "214157": {
+    "lat": 25.8974759,
+    "lon": 73.8006723,
+    "query": "306114, Rajasthan, India"
+  },
+  "221447": {
+    "lat": 25.3487179,
+    "lon": 73.3109679,
+    "query": "RANI, PALI, Rajasthan, India"
+  },
+  "214161": {
+    "lat": 25.9245937,
+    "lon": 73.6652394,
+    "query": "SOJAT, PALI, Rajasthan, India"
+  },
+  "221340": {
+    "lat": 25.060643,
+    "lon": 73.253814,
+    "query": "BIJAPUR, 306707, Rajasthan, India"
+  },
+  "471336": {
+    "lat": 25.2873481,
+    "lon": 73.1200218,
+    "query": "DUJANA, PALI, Rajasthan, India"
+  },
+  "221486": {
+    "lat": 25.7682376,
+    "lon": 73.3275135,
+    "query": "PALI, PALI, Rajasthan, India"
+  },
+  "225411": {
+    "lat": 25.2794664,
+    "lon": 73.5688591,
+    "query": "DESURI, 306703, Rajasthan, India"
+  },
+  "225413": {
+    "lat": 25.3487179,
+    "lon": 73.3109679,
+    "query": "RANI, 306115, Rajasthan, India"
+  },
+  "225414": {
+    "lat": 25.9582028,
+    "lon": 73.1404949,
+    "query": "ROHAT, PALI, Rajasthan, India"
+  },
+  "225416": {
+    "lat": 25.1538056,
+    "lon": 73.0816488,
+    "query": "SUMERPUR, PALI, Rajasthan, India"
+  },
+  "220158": {
+    "lat": 27.2291201,
+    "lon": 72.8043602,
+    "query": "BHOJASAR, 342311, Rajasthan, India"
+  },
+  "220119": null,
+  "220162": {
+    "lat": 27.0295088,
+    "lon": 72.1273556,
+    "query": "KHARA, 345023, Rajasthan, India"
+  },
+  "220113": {
+    "lat": 27.3747541,
+    "lon": 72.353164,
+    "query": "BAP, PHALODI, Rajasthan, India"
+  },
+  "220318": {
+    "lat": 26.9549437,
+    "lon": 72.7183342,
+    "query": "PALLI, PHALODI, Rajasthan, India"
+  },
+  "220209": {
+    "lat": 27.1294121,
+    "lon": 72.3649644,
+    "query": "PHALODI, 342301, Rajasthan, India"
+  },
+  "220115": {
+    "lat": 27.3747541,
+    "lon": 72.353164,
+    "query": "BAP, PHALODI, Rajasthan, India"
+  },
+  "224820": {
+    "lat": 24.4108896,
+    "lon": 74.5394897,
+    "query": "KARJU, PRATAPGARH, Rajasthan, India"
+  },
+  "224813": {
+    "lat": 24.4470715,
+    "lon": 74.7949218,
+    "query": "KESUNDA, PRATAPGARH, Rajasthan, India"
+  },
+  "224843": {
+    "lat": 24.1229224,
+    "lon": 74.7458911,
+    "query": "DHAMOTAR, PRATAPGARH, Rajasthan, India"
+  },
+  "217799": {
+    "lat": 23.8826789,
+    "lon": 74.8106074,
+    "query": "ARNOD, PRATAPGARH, Rajasthan, India"
+  },
+  "224828": {
+    "lat": 24.0366463,
+    "lon": 74.6571421,
+    "query": "DEVGARH, 312605, Rajasthan, India"
+  },
+  "224799": null,
+  "224833": {
+    "lat": 23.9387026,
+    "lon": 74.8968243,
+    "query": "KULTHANA, 312605, Rajasthan, India"
+  },
+  "224775": {
+    "lat": 23.9522537,
+    "lon": 74.3855738,
+    "query": "PARSOLA, PRATAPGARH, Rajasthan, India"
+  },
+  "224730": null,
+  "217786": {
+    "lat": 24.0232221,
+    "lon": 74.6250275,
+    "query": "PRATAPGARH, 312605, Rajasthan, India"
+  },
+  "224800": {
+    "lat": 24.3829511,
+    "lon": 74.7013558,
+    "query": "CHHOTI SADRI, 312604, Rajasthan, India"
+  },
+  "222937": {
+    "lat": 25.2892459,
+    "lon": 73.8241077,
+    "query": "RAJSAMAND, 313326, Rajasthan, India"
+  },
+  "222899": {
+    "lat": 25.1212921,
+    "lon": 74.0220516,
+    "query": "313327, Rajasthan, India"
+  },
+  "222718": {
+    "lat": 25.7384145,
+    "lon": 74.079374,
+    "query": "BHIM, RAJSAMAND, Rajasthan, India"
+  },
+  "222719": {
+    "lat": 25.6338077,
+    "lon": 73.8969826,
+    "query": "KACHHBALI, 313341, Rajasthan, India"
+  },
+  "222955": {
+    "lat": 25.0085142,
+    "lon": 74.1585011,
+    "query": "RAILMAGRA, 313329, Rajasthan, India"
+  },
+  "222892": {
+    "lat": 24.9121863,
+    "lon": 73.9137489,
+    "query": "NATHDWARA, 313301, Rajasthan, India"
+  },
+  "486427": {
+    "lat": 25.301252,
+    "lon": 73.9273745,
+    "query": "AMET, RAJSAMAND, Rajasthan, India"
+  },
+  "222914": {
+    "lat": 25.0585825,
+    "lon": 73.8880816,
+    "query": "RAJSAMAND, RAJSAMAND, Rajasthan, India"
+  },
+  "222840": {
+    "lat": 24.9204203,
+    "lon": 73.8124857,
+    "query": "313301, Rajasthan, India"
+  },
+  "488512": {
+    "lat": 24.9121863,
+    "lon": 73.9137489,
+    "query": "NATHDWARA, 313301, Rajasthan, India"
+  },
+  "222854": {
+    "lat": 24.9255943,
+    "lon": 73.6827922,
+    "query": "SEMA, 313322, Rajasthan, India"
+  },
+  "222802": {
+    "lat": 25.0841414,
+    "lon": 73.5905135,
+    "query": "HAMEERPAL, 313325, Rajasthan, India"
+  },
+  "222956": {
+    "lat": 25.0085142,
+    "lon": 74.1585011,
+    "query": "RAILMAGRA, 313329, Rajasthan, India"
+  },
+  "222915": null,
+  "222896": {
+    "lat": 24.9121863,
+    "lon": 73.9137489,
+    "query": "NATHDWARA, 313301, Rajasthan, India"
+  },
+  "217922": {
+    "lat": 26.0501535,
+    "lon": 76.1533256,
+    "query": "CHAUTH KA BARWARA, S.MADHOPUR, Rajasthan, India"
+  },
+  "212765": {
+    "lat": 26.5582151,
+    "lon": 76.5595336,
+    "query": "BAMANWAS, S.MADHOPUR, Rajasthan, India"
+  },
+  "217886": {
+    "lat": 27.1031249,
+    "lon": 76.941601,
+    "query": "TODRA, 322026, Rajasthan, India"
+  },
+  "225419": {
+    "lat": 26.3303779,
+    "lon": 76.2270358,
+    "query": "BONLI, S.MADHOPUR, Rajasthan, India"
+  },
+  "217831": {
+    "lat": 26.470498,
+    "lon": 76.7515815,
+    "query": "322202, Rajasthan, India"
+  },
+  "223576": {
+    "lat": 24.1390484,
+    "lon": 74.0461856,
+    "query": "SALUMBAR, 313027, Rajasthan, India"
+  },
+  "223458": {
+    "lat": 24.1440935,
+    "lon": 73.824259,
+    "query": "SARADA, SALUMBAR, Rajasthan, India"
+  },
+  "223462": {
+    "lat": 24.188051,
+    "lon": 73.810553,
+    "query": "CHAWAND, 313904, Rajasthan, India"
+  },
+  "223505": {
+    "lat": 24.1440935,
+    "lon": 73.824259,
+    "query": "SARADA, SALUMBAR, Rajasthan, India"
+  },
+  "223577": {
+    "lat": 24.1390484,
+    "lon": 74.0461856,
+    "query": "SALUMBAR, 313027, Rajasthan, India"
+  },
+  "225427": {
+    "lat": 24.1390484,
+    "lon": 74.0461856,
+    "query": "SALUMBAR, SALUMBAR, Rajasthan, India"
+  },
+  "225428": {
+    "lat": 24.1440935,
+    "lon": 73.824259,
+    "query": "SARADA, 313902, Rajasthan, India"
+  },
+  "223552": {
+    "lat": 24.0003218,
+    "lon": 73.9510089,
+    "query": "INTALI KHERA, 313026, Rajasthan, India"
+  },
+  "219381": {
+    "lat": 27.4579824,
+    "lon": 75.5981933,
+    "query": "SHRI MADHOPUR, SIKAR, Rajasthan, India"
+  },
+  "213150": {
+    "lat": 27.8264386,
+    "lon": 74.9253845,
+    "query": "BADUSAR, 332317, Rajasthan, India"
+  },
+  "213093": null,
+  "219164": null,
+  "213155": {
+    "lat": 27.4905514,
+    "lon": 75.2695226,
+    "query": "RAJPURA, 332401, Rajasthan, India"
+  },
+  "213122": {
+    "lat": 27.8833908,
+    "lon": 74.9042702,
+    "query": "BIBIPUR CHHOTA, SIKAR, Rajasthan, India"
+  },
+  "510947": {
+    "lat": 27.4863592,
+    "lon": 75.8953901,
+    "query": "332707, Rajasthan, India"
+  },
+  "213305": {
+    "lat": 27.3119247,
+    "lon": 75.2996568,
+    "query": "DANTARAMGARH, SIKAR, Rajasthan, India"
+  },
+  "213330": {
+    "lat": 27.223589,
+    "lon": 75.290796,
+    "query": "KHACHARIYAWAS, SIKAR, Rajasthan, India"
+  },
+  "219288": {
+    "lat": 27.7992609,
+    "lon": 75.9753084,
+    "query": "PATAN, 332718, Rajasthan, India"
+  },
+  "213298": {
+    "lat": 27.5401375,
+    "lon": 75.1403708,
+    "query": "DUJOD, 332021, Rajasthan, India"
+  },
+  "213306": {
+    "lat": 27.3119247,
+    "lon": 75.2996568,
+    "query": "DANTARAMGARH, SIKAR, Rajasthan, India"
+  },
+  "219226": {
+    "lat": 27.6911664,
+    "lon": 75.6359982,
+    "query": "GUHALA, 332706, Rajasthan, India"
+  },
+  "213873": {
+    "lat": 24.7893617,
+    "lon": 73.038478,
+    "query": "PINDWARA, 307022, Rajasthan, India"
+  },
+  "213959": {
+    "lat": 26.8945874,
+    "lon": 75.7407505,
+    "query": "KAILASH_NAGAR, 307801, Rajasthan, India"
+  },
+  "214006": {
+    "lat": 24.5359289,
+    "lon": 72.5454175,
+    "query": "MAKAWAL, 307026, Rajasthan, India"
+  },
+  "213911": {
+    "lat": 24.592433,
+    "lon": 72.7081876,
+    "query": "MOUNT ABU, SIROHI, Rajasthan, India"
+  },
+  "213887": null,
+  "214026": {
+    "lat": 24.5949145,
+    "lon": 72.4890585,
+    "query": "REODAR, SIROHI, Rajasthan, India"
+  },
+  "225450": {
+    "lat": 26.1647019,
+    "lon": 75.576596,
+    "query": "TONK, TONK, Rajasthan, India"
+  },
+  "222141": {
+    "lat": 25.7600492,
+    "lon": 75.3755879,
+    "query": "DEOLI, TONK, Rajasthan, India"
+  },
+  "222206": {
+    "lat": 25.8304495,
+    "lon": 75.6351828,
+    "query": "UNIYARA, TONK, Rajasthan, India"
+  },
+  "221943": {
+    "lat": 26.2888019,
+    "lon": 75.3729774,
+    "query": "MALPURA, 304502, Rajasthan, India"
+  },
+  "222170": {
+    "lat": 25.7600492,
+    "lon": 75.3755879,
+    "query": "DEOLI, 304804, Rajasthan, India"
+  },
+  "222185": {
+    "lat": 25.9622312,
+    "lon": 75.9620046,
+    "query": "DHIKOLIYA, TONK, Rajasthan, India"
+  },
+  "225421": {
+    "lat": 25.781171,
+    "lon": 75.4404263,
+    "query": "PANWAD, TONK, Rajasthan, India"
+  },
+  "222120": {
+    "lat": 26.0252473,
+    "lon": 75.4848698,
+    "query": "TODARAISINGH, TONK, Rajasthan, India"
+  },
+  "223430": {
+    "lat": 23.9853145,
+    "lon": 73.5945403,
+    "query": "KHERWARA, UDAIPUR, Rajasthan, India"
+  },
+  "223131": {
+    "lat": 24.792682,
+    "lon": 73.9745137,
+    "query": "MAVLI, UDAIPUR, Rajasthan, India"
+  },
+  "223607": {
+    "lat": 24.2686324,
+    "lon": 73.5986211,
+    "query": "313802, Rajasthan, India"
+  },
+  "223609": {
+    "lat": 24.0759288,
+    "lon": 73.6942285,
+    "query": "RISHABHDEV, UDAIPUR, Rajasthan, India"
+  },
+  "223394": {
+    "lat": 24.0345295,
+    "lon": 73.2607969,
+    "query": "DAIYA, UDAIPUR, Rajasthan, India"
+  },
+  "223381": {
+    "lat": 24.4167513,
+    "lon": 73.4801459,
+    "query": "JHADOL, 313702, Rajasthan, India"
+  },
+  "214847": {
+    "lat": 24.8001059,
+    "lon": 73.582551,
+    "query": "313704, Rajasthan, India"
+  },
+  "223228": {
+    "lat": 24.4074044,
+    "lon": 73.9278651,
+    "query": "GIRWA, UDAIPUR, Rajasthan, India"
+  },
+  "223448": {
+    "lat": 23.9853145,
+    "lon": 73.5945403,
+    "query": "KHERWARA, UDAIPUR, Rajasthan, India"
+  },
+  "223454": {
+    "lat": 23.9853145,
+    "lon": 73.5945403,
+    "query": "KHERWARA, UDAIPUR, Rajasthan, India"
+  },
+  "223621": {
+    "lat": 24.588066,
+    "lon": 73.3775568,
+    "query": "PIPLI B, 313802, Rajasthan, India"
+  },
+  "223258": {
+    "lat": 24.4199932,
+    "lon": 73.651966,
+    "query": "313801, Rajasthan, India"
+  },
+  "223453": {
+    "lat": 24.079772,
+    "lon": 73.5708689,
+    "query": "SUBERI, 313803, Rajasthan, India"
+  },
+  "223613": {
+    "lat": 24.0341415,
+    "lon": 73.6573173,
+    "query": "KAGDAR BHATIYA, 313802, Rajasthan, India"
+  },
+  "223602": {
+    "lat": 24.2686324,
+    "lon": 73.5986211,
+    "query": "313802, Rajasthan, India"
+  },
+  "225424": {
+    "lat": 24.4116361,
+    "lon": 73.4321043,
+    "query": "GOGLA, 313702, Rajasthan, India"
+  },
+  "223411": {
+    "lat": 23.9853145,
+    "lon": 73.5945403,
+    "query": "KHERWARA, UDAIPUR, Rajasthan, India"
+  },
+  "225425": {
+    "lat": 24.365589,
+    "lon": 73.1767559,
+    "query": "KOTRA, UDAIPUR, Rajasthan, India"
+  },
+  "225426": {
+    "lat": 24.792682,
+    "lon": 73.9745137,
+    "query": "MAVLI, UDAIPUR, Rajasthan, India"
+  },
+  "223263": {
+    "lat": 24.3396481,
+    "lon": 73.6940179,
+    "query": "ZAWAR, UDAIPUR, Rajasthan, India"
+  }
+}
